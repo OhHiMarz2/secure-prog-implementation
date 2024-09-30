@@ -12,6 +12,7 @@
 
 #define SERVER_PORT 8080  // Port to connect to
 
+
 int main() {
     int sock;  // Socket descriptor
     struct sockaddr_in server_addr;  // Server address
